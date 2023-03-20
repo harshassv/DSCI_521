@@ -64,6 +64,19 @@ The mHealth (Mobile Health) dataset is a publicly available dataset from the Mac
 ### Random Forest Results
 ![](pics/random_forest_score.png)
 
+## Requirements 
+
+* Jupyter notebook
+* Pandas
+* Numpy
+* Plotly
+* Matplotlib
+* Sklearn
+
+## How to execute
+
+* Download the project.ipynb file along with the dataset data.csv. Ensure all the above requirements are installed and then, open the notebook in jupyternotebook and click 'Run all'.
+
 ## Challenges Faced & Future Scope
 
 
