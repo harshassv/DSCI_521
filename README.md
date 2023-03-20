@@ -30,6 +30,8 @@ Accelerometer: For measuring Acceleration in 3D Space
 
 ## Sample Data Set
 
+![](pics/data_set_sample.png)
+
 ## Attributes in the dataset
 
 ![](pics/attributes.png)
