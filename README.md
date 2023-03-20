@@ -32,12 +32,23 @@ Accelerometer: For measuring Acceleration in 3D Space
 
 ## Attributes in the dataset
 
+![](pics/attributes.png)
+
 ## Categories of Activities recorded
+![](pics/activities.png)
 
 ## Models used
 
 ## Results
 
+### Logistic Regression Results
+![](pics/logistic_score.png)
+
+### KNN Results
+![](pics/knn_score.png)
+
+### Random Forest Results
+![](pics/random_forest_score.png)
 
 ## Challenges Faced & Future Scope
 
