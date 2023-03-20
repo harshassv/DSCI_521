@@ -47,6 +47,12 @@ The mHealth (Mobile Health) dataset is a publicly available dataset from the Mac
 
 ## Models used
 
+* Logistic Regression
+* K-Nearest Neighbors
+* Random Forest Classifier
+
+
+
 ## Results
 
 ### Logistic Regression Results
