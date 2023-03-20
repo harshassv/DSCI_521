@@ -7,6 +7,12 @@ Gyroscope : For identifying Position in 3D space
 
 Accelerometer: For measuring Acceleration in 3D Space
 
+## Introduction
+
+The dataset titled "Physical Activity Prediction," available on the UCI Machine Learning Repository, provides a collection of physiological and movement data of individuals recorded through wearable sensors. The dataset aims to make it possible to create predictive models for each person's level of physical activity. Accurate prediction of activity levels is crucial for tailoring health interventions because physical activity has been shown to have a significant impact on overall health and well-being. The dataset includes data from different sensors, including accelerometer and gyroscope measurements, as well as demographic data. The target variable in this dataset is the level of physical activity, which is divided into five categories ranging from very active to sedentary. The dataset can be used in a number of ways, such as to make activity tracking systems, tailor-made fitness plans, and find risk factors for different illnesses.
+
+The mHealth (Mobile Health) dataset is a publicly available dataset from the Machine Learning Repository of the University of California, Irvine (UCI). The dataset was collected as part of a research project aimed at developing machine learning algorithms for human activity recognition using mobile sensors. The dataset contains sensor readings from 10 different sensors on a smartphone and a smartwatch worn by the participants, while they performed different physical activities. The mHealth dataset contains data from 10 participants, who were asked to perform 12 different physical activities, including walking, standing, jumping, and cycling. The dataset includes a total of 27,000 instances, with each instance consisting of 23 sensor readings and a label that indicates the corresponding activity. The sensor data was collected at a sampling rate of 50 Hz, resulting in a total of 23 sensor features for each instance. The sensors included in the dataset are the accelerometer, gyroscope, and magnetometer of the smartphone and smartwatch. The data was preprocessed to remove noise and the effect of gravity, resulting in a clean and standardized dataset for machine learning analysis. The targeted variable in the dataset holds the values of the general activities like standing still, lying down, walking, climbing stairs, cycling, jogging or running and many more.
+
 ## Potential applications
 
 
